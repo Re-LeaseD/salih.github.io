@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,10 +10,8 @@
     <!--<style type="text/css">
     
     </style>-->
-
-
 </head>
-<body>
+<body>-->
     <div id="header">
         <div class="container">
             <div id="branding">
