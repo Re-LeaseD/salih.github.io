@@ -1,4 +1,3 @@
-<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,11 +6,8 @@
     <title>Salih Portfolio Page</title>
     <link rel="stylesheet" href="style_portfolio.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
-    <!--<style type="text/css">
-    
-    </style>-->
 </head>
-<body>-->
+<body>
     <div id="header">
         <div class="container">
             <div id="branding">
